@@ -2,7 +2,9 @@
 
 This code plots the free energy of an ordered phase defined by the CALPHAD sublattice model by minimizing the free energy in sublattice space and finding the composition values...
 
-For more information about CALPHAD sublattice model read: https://link.springer.com/article/10.1007/s11669-018-0671-y
+For more information about CALPHAD sublattice model read: A Review of Calphad Modeling of Ordered Phases 
+
+Link: https://link.springer.com/article/10.1007/s11669-018-0671-y
 
 The code uses the MATLAB fmincon method to minimize the sublattice model to retrieve the alloy composition...
 
