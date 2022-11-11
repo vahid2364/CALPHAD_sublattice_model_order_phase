@@ -1,8 +1,8 @@
 # CALPHAD sublattice model for ordered phase 
 
-This code plots the free energy of an ordered phase defined by the CALPHAD sublattice model by minimizing the free energy in sublattice space for finding the composition values...
+The purpose of this code is to calculate the composition values of an ordered phase defined by the CALPHAD sublattice model by minimizing the free energy in sublattice space...
 
-For more information about CALPHAD sublattice model read: A Review of Calphad Modeling of Ordered Phases 
+For more information about the CALPHAD sublattice model read: A Review of Calphad Modeling of Ordered Phases 
 
 Link: https://link.springer.com/article/10.1007/s11669-018-0671-y
 
